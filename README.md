@@ -160,7 +160,7 @@ npm install
 ### Run Application
 
 ```bash
-npm start
+npm run dev
 ```
 
 The application will run on:
